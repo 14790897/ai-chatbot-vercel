@@ -8,18 +8,18 @@ interface ChatModel {
 
 export const chatModels: Array<ChatModel> = [
   {
-    id: 'chat-model-small',
-    name: 'Small model',
-    description: 'Small model for fast, lightweight tasks',
+    id: "chat-model-small",
+    name: "DeepSeek-V3",
+    description: "Small model for fast, lightweight tasks",
   },
   {
-    id: 'chat-model-large',
-    name: 'Large model',
-    description: 'Large model for complex, multi-step tasks',
+    id: "chat-model-large",
+    name: "GPT-4o",
+    description: "Large model for complex, multi-step tasks",
   },
   {
-    id: 'chat-model-reasoning',
-    name: 'Reasoning model',
-    description: 'Uses advanced reasoning',
+    id: "chat-model-reasoning",
+    name: "DeepSeek-R1",
+    description: "Uses advanced reasoning",
   },
 ];

@@ -19,6 +19,7 @@
     "test": "export PLAYWRIGHT=True && pnpm exec playwright test --workers=4"
   },
   "dependencies": {
+    "@ai-sdk/deepseek": "^0.1.14",
     "@ai-sdk/fireworks": "0.1.12",
     "@ai-sdk/openai": "1.2.0",
     "@ai-sdk/react": "^1.1.20",
