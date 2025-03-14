@@ -1,5 +1,5 @@
 [English](README_en.md) | 简体中文
-<a href="https://chat.vercel.ai/">
+<a href="https://aichat.14790897.xyz/">
 <img alt="Next.js 14 和 App Router 支持的 AI 聊天机器人。" src="app/(chat)/opengraph-image.png">
 
   <h1 align="center">Next.js AI 聊天机器人</h1>
