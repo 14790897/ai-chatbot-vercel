@@ -50,6 +50,15 @@
 
 [![使用 Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F14790897%2Fai-chatbot-vercel&env=AUTH_SECRET,CUSTOM_BASE_URL,CUSTOM_API_KEY&envDescription=了解更多关于如何配置应用的信息&envLink=https%3A%2F%2Fgithub.com%2F14790897%2Fai-chatbot-vercel%2Fblob%2Fmain%2F.env.example&demo-title=AI%20Chatbot&demo-description=一个使用Next.js和VercelAISDK构建的开源AI聊天机器人模板&demo-url=https%3A%2F%2Faichat.14790897.xyz&stores=%5B%7B%22type%22:%22postgres%22%7D,%7B%22type%22:%22blob%22%7D%5D)
 
+变量说明：  
+- **随机密钥**：可以访问 [https://generate-secret.vercel.app/32](https://generate-secret.vercel.app/32) 或使用命令 `openssl rand -base64 32`  
+  **AUTH_SECRET=******  
+
+- **自定义请求地址**：例如 `https://one.paperai.life/v1`，注意路径中的 `/v1`  
+  **CUSTOM_BASE_URL=******  
+
+- **自定义 API 密钥**：  
+  **CUSTOM_API_KEY=******
 ---
 
 ## 本地运行
