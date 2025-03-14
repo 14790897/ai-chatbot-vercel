@@ -1,4 +1,4 @@
-<a href="https://chat.vercel.ai/">
+<a href="https://aichat.14790897.xyz/">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Next.js AI Chatbot</h1>
 </a>
